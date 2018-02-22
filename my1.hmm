@@ -1,0 +1,11 @@
+total training words are: 5
+trans VBZ NNP . 1.0
+trans init init NNP 1.0
+trans init NNP NNP 1.0
+trans . final final 1.0
+trans NNP VBZ NNP 1.0
+trans NNP . final 1.0
+trans NNP NNP VBZ 1.0
+emit VBZ OOV 1.0 
+emit . OOV 1.0 
+emit NNP OOV 1.0 
